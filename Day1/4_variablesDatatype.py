@@ -1,0 +1,10 @@
+name="ishika"
+age=21
+CGPA=7.11
+a=None
+old=False
+print(type(name))
+print(type(age))
+print(type(CGPA))
+print(type(a))
+print(type(old))

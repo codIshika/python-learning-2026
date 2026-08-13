@@ -1,0 +1,12 @@
+
+name=input("Enter your name:")
+rollno=int(input("Enter your roll number:"))
+Class=input("Enter your class:")
+age=int(input("Enter your age:"))
+marks=float(input("Enter your marks:"))
+print("-----------STUDENT INFORMATION-------------")
+print("Name:", name)
+print("Roll Number:", rollno)       
+print("Class:", Class)
+print("Age:", age)
+print("Marks:", marks)      
