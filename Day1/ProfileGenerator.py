@@ -6,14 +6,10 @@ dream_job=input("Enter your dream job: ")
 
 
 
-print("-----------PROFILE INFORMATION-------------")
-
-print("Name:", name)
-
+print("\n-----------PROFILE INFORMATION-------------")
+print("\nName:", name)
 print("Age:", age)  
-
 print("College:", college)
-
 print("Branch:", branch)
-
-print("Dream Job:", dream_job)  
+print("Dream Job:", dream_job) 
+print("\n--------------------------------------------")
